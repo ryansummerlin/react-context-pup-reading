@@ -1,3 +1,4 @@
+import React from 'react';
 import PupForm from './components/PupForm';
 import PupImage from './components/PupImage';
 
